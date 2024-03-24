@@ -1,6 +1,6 @@
 # SoCal Politics Is Now Archived (v3 stopped)
 
-On March 25 2024, the development of SoCal Politics has stopped. The frontend and backend developer was parachataha2 on Github. His portfolio is open [here](https://tahaparacha.netlify.app) - open for hire.
+On March 25 2024, the development of SoCal Politics has stopped. The frontend and backend developer was parachataha on Github. His portfolio is open [here](https://tahaparacha.netlify.app) - open for hire.
 
 The app was previously running on [https://socalpolitics.com](https://socalpolitics.com) and [https://api.socalpolitics.com](https://api.socalpolitics.com). The app was on running on a AlmaLinux server hosted by namecheap VPS services.
 
